@@ -1,0 +1,13 @@
+.container{
+    margin-top: 5%;
+}
+
+.header{
+    color: red;
+    font-size: 26px;
+    font-family: Garamond;
+}
+
+.container li{
+    list-style: square;
+}

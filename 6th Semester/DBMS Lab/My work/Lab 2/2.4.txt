@@ -1,0 +1,4 @@
+1-Geolocation
+Locate the User's Position
+The HTML Geolocation API is used to get the geographical position of a user. Since this can compromise privacy,
+ the position is not available unless the user approves it. Note: Geolocation is most accurate for devices with GPS, like smartphones.
